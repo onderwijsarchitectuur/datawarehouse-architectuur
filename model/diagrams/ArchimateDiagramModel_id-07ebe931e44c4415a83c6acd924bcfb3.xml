@@ -568,4 +568,16 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-f7c60398726f48a6b3ae32301ffebe1f.xml#id-f7c60398726f48a6b3ae32301ffebe1f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-693d8f5b8e17430ebfad7a19b0821dbc">
+    <bounds
+        x="1368"
+        y="528"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-ab77ff406a5d4e6eb39e31b4ba469bf4.xml#id-ab77ff406a5d4e6eb39e31b4ba469bf4"/>
+  </children>
 </archimate:ArchimateDiagramModel>
