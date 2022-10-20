@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensuitwisseling"
-    id="id-5bfecb735f274a2da1f03306382b41e0"/>
+    id="id-5bfecb735f274a2da1f03306382b41e0"
+    documentation="het uitwisselplatform wordt zowel voor interne als externe uitwisselingen toegepast."/>

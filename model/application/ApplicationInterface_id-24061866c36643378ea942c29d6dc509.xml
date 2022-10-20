@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmagazijn"
-    id="id-24061866c36643378ea942c29d6dc509"/>
+    id="id-24061866c36643378ea942c29d6dc509"
+    documentation="gegensintegratie in het operationele domein "/>

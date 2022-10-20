@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GFT - Interne bestandeverplaatsingen"
+    id="id-e3e0de06751b42f68b646ffad5c7b9c8"
+    documentation="Komt soms ook na het Uitwisselplatform.&#xD;&#xA;Zowel vanuit BO als vanuit DWH.&#xD;&#xA;Kan ook Flat file bron zijn voor Power Center. (=file server powercenter). &#xD;&#xA;Power Center zou hier niet direct naar moeten verwijzen, maar gebeurd soms wel).&#xD;&#xA;GFT zou deze uitwisseling tussen powercenter fileshare en uitwisselplatform. GFT zou misschien wel centrale flat file verplaats service moeten zijn,&#xD;&#xA;GFT en Rinis doet hetzelfde. Is wel andere techniek.&#xD;&#xA;Zakelijk portaal doet dus alle communicatie naar buiten (idealiter). GFT is voor interne verplaatsingen.&#xD;&#xA;(Vraag Freek steenbergen)"/>

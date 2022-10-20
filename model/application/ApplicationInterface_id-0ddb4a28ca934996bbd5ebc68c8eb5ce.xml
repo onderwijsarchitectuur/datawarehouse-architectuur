@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Power Center mail functionaliteit"
-    id="id-0ddb4a28ca934996bbd5ebc68c8eb5ce"/>
+    name="mail functionaliteit ETL tooling"
+    id="id-0ddb4a28ca934996bbd5ebc68c8eb5ce"
+    documentation="check op welke uitwisselingen precies via deze interface worden gestuurd"/>
