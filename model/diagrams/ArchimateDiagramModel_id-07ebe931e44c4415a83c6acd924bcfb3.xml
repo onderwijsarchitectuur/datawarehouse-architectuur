@@ -1364,7 +1364,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-106a03f072344deea6f124703948ddbd"
       textAlignment="1"
-      content="vragen&#xD;&#xA;- welke naamgeving kunnen/moeten we hanteren? (bv. interface s met ' inteface' naam in zich)&#xD;&#xA;- hoe om te gaan in deze architectuur met ad-hoc verzoeken die bv via mail worden verstuurd?&#xD;&#xA;- heeft het meerwaarde om de ETL functie voor BI op te nemen?&#xD;&#xA;- is virtualiseren een vorm van gebruik of verstrekken?">
+      content="vragen&#xD;&#xA;- welke naamgeving kunnen/moeten we hanteren? (bv. interface s met ' inteface' naam in zich)&#xD;&#xA;- hoe om te gaan in deze architectuur met ad-hoc verzoeken die bv via mail worden verstuurd?&#xD;&#xA;- is virtualiseren een vorm van gebruik of verstrekken?">
     <bounds
         x="144"
         y="2136"
