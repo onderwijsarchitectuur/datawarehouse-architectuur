@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensmodel"
+    name="Datawarehouse architectuur baseline 1"
     id="id-07ebe931e44c4415a83c6acd924bcfb3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
