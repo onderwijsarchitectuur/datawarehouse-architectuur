@@ -173,9 +173,9 @@
             href="AccessRelationship_id-13ccf8618900435db20d4628e2291883.xml#id-13ccf8618900435db20d4628e2291883"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="24"
           y="60"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
@@ -684,9 +684,9 @@
             href="ServingRelationship_id-484423ae79cb405db68705b2e371ed68.xml#id-484423ae79cb405db68705b2e371ed68"/>
       </sourceConnections>
       <bounds
-          x="636"
+          x="618"
           y="60"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
@@ -959,7 +959,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-106a03f072344deea6f124703948ddbd"
       textAlignment="1"
-      content="vragen&#xD;&#xA;- welke naamgeving kunnen/moeten we hanteren? (bv. interface s met ' inteface' naam in zich)&#xD;&#xA;- hoe om te gaan in deze architectuur met ad-hoc verzoeken die bv via mail worden verstuurd?&#xD;&#xA;- is virtualiseren een vorm van gebruik of verstrekken?">
+      content="vragen&#xD;&#xA;- welke naamgeving kunnen/moeten we hanteren? (bv. interface s met ' inteface' naam in zich) --> altijd interface naam bij interace object, en data bij data object toegevoegd.&#xD;&#xA;- hoe om te gaan in deze architectuur met ad-hoc verzoeken die bv via mail worden verstuurd? --> wordt gerepresenteerd door een gegevensproduct maar vaak in een minimale vorm van voortbrengen.&#xD;&#xA;- is virtualiseren een vorm van gebruik of verstrekken? --> gebruik omdat het onderdeel is van de manier waarop het gegevensproduct wordt gerealiseerd. Virtualiseren omgedoopt tot de functie Creeren waaeronder ook persisteren valt.">
     <bounds
         x="2616"
         y="84"
@@ -1569,17 +1569,17 @@
             href="AccessRelationship_id-d14b891501ff46f2b51b4c3d6e4b10ae.xml#id-d14b891501ff46f2b51b4c3d6e4b10ae"/>
       </sourceConnections>
       <bounds
-          x="38"
+          x="12"
           y="492"
-          width="405"
+          width="431"
           height="132"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9198ddb4b98849228242fc27fa869874">
         <bounds
-            x="12"
+            x="24"
             y="48"
-            width="120"
+            width="133"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -1589,7 +1589,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2b5a035c45e54516a8ff87e7c9edd020">
         <bounds
-            x="144"
+            x="170"
             y="48"
             width="120"
             height="55"/>
@@ -1601,7 +1601,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-846cc57487df4b50b24304dc3ae3adab">
         <bounds
-            x="276"
+            x="302"
             y="48"
             width="120"
             height="55"/>
@@ -3188,9 +3188,9 @@
           href="ServingRelationship_id-67722b3970ec45f6ad2eeb8df75de947.xml#id-67722b3970ec45f6ad2eeb8df75de947"/>
     </sourceConnections>
     <bounds
-        x="1026"
+        x="996"
         y="1212"
-        width="120"
+        width="149"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virtualiseren"
-    id="id-6656d790f8244498ba7a638d425dcec0"/>
+    name="Creeren"
+    id="id-6656d790f8244498ba7a638d425dcec0"
+    documentation="creeren bestaat uit persisteren of virtualiseren"/>
