@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemer"
-    id="id-a3ff9ee4455a45fbb4a087c4f363cbea"/>
+    id="id-a3ff9ee4455a45fbb4a087c4f363cbea"
+    documentation="Interne en externe afnemers van gegevensproducten en/of informatieproducten&#xD;&#xA;Realisatie van informatieproducten (bv. door interne afnemers) valt buiten scope van deze architectuur."/>
