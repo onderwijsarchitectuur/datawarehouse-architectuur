@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opslage tbv Bestandsuitwisseling interne klantgroepen."
-    id="id-8f84ef7a2f9a4252a457c915653e5ed9"
-    documentation="Zowel vanuit BO als vanuit DWH.&#xD;&#xA;Kan ook Flat file bron zijn voor Power Center. (=file server powercenter). &#xD;&#xA;Power Center zou hier niet direct naar moeten verwijzen, maar gebeurd soms wel).&#xD;&#xA;GFT zou deze uitwisseling tussen powercenter fileshare en uitwisselplatform. GFT zou misschien wel centrale flat file verplaats service moeten zijn,&#xD;&#xA;GFT en Rinis doet hetzelfde. Is wel andere techniek.&#xD;&#xA;Zakelijk portaal doet dus alle communicatie naar buiten (idealiter). GFT en Rinis is voor interne verplaatsingen.&#xD;&#xA;(Vraag Freek steenbergen)&#xD;&#xA;"/>
